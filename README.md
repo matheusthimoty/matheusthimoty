@@ -1,8 +1,8 @@
 ## Hey, I'm Mashu and I'm learning coding!
 <div align="center">
   <a href="https://github.com/mashuzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mashuzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuzx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mashuzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuzx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mashu-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-a82223?style=for-the-badge&logo=html5&logoColor=white">
