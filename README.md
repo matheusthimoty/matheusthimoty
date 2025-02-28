@@ -1,4 +1,4 @@
-## Hey, I'm Matheus and I'm learning coding!
+## Hey, I'm Matheus!
 <div align="center">
  
 <div style="display: inline_block"><br>
