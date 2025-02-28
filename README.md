@@ -2,9 +2,7 @@
 <div align="center">
  
 <div style="display: inline_block"><br>
-  
- 
-  <img align="right" alt="Mashu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/852891765190557717/1052433554799329360/download20221203005252.png">
+
 </div>
   
   ##
